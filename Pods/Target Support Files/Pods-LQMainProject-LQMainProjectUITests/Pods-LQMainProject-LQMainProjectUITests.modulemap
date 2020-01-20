@@ -1,0 +1,6 @@
+framework module Pods_LQMainProject_LQMainProjectUITests {
+  umbrella header "Pods-LQMainProject-LQMainProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
